@@ -20,7 +20,7 @@ export default function Home() {
           </div>
           <div>
             <h1 className=" text-4xl font-extrabold">
-              Hi, am{" "}
+              Hi 👋🏽, am{" "}
               <span className="text-primary text-opacity-60">
                 Francklin Tiomela
               </span>
